@@ -42,7 +42,7 @@
 | [**DermalScan**](<repo-link>) | Detects and classifies facial skin conditions from images (**83% accuracy**) | Python, TensorFlow, EfficientNetB0, CNN |
 | [**Emotion Recognition from Speech**](https://github.com/harshitha3005/Emotion_Recognition_from_Speech) | Classifies emotion from speech (RAVDESS) using MFCC, Delta MFCC and Mel-spectrogram features | Python, Keras, CNN, LSTM, librosa |
 | [**Full Stack Chat App**](<repo-link>) | Real-time messaging with JWT auth and image sharing | React, Node.js, Express, MongoDB, Socket.IO |
-| [**Credit Scoring Model**](https://github.com/harshitha3005/Credit_Scoring_Model) | <one line: what data, which model, which metric> | Python, scikit-learn |
+| [**Credit Scoring Model**](https://github.com/harshitha3005/Credit_Scoring_Model) | Developed a Credit Scoring Model using customer financial and demographic features such as income, debt-to-income ratio, credit-to-debit ratio, employment history, and loan defaults to predict creditworthiness. | Python, scikit-learn |
 
 ### 💼 Experience
 - **Full Stack Developer Intern, UptoSkills** (Feb–May 2026): built responsive frontends and backend APIs
