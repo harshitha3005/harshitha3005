@@ -45,8 +45,28 @@
 | [**Credit Scoring Model**](https://github.com/harshitha3005/Credit_Scoring_Model) | Developed a Credit Scoring Model using customer financial and demographic features such as income, debt-to-income ratio, credit-to-debit ratio, employment history, and loan defaults to predict creditworthiness. | Python, scikit-learn |
 
 ### 💼 Experience
-- **Full Stack Developer Intern, UptoSkills** (Feb–May 2026): built responsive frontends and backend APIs
-- **AI Intern, Infosys Springboard** (Oct–Dec 2025): built a deep learning model to detect facial aging signs, which became DermalScan
+
+**🤖 Agentic AI Intern · Innomatics Research Labs** · *Feb 2026 – May 2026 · Remote*
+- Built AI agents and RAG-based applications using LangChain and LangGraph
+- Developed backend APIs with FastAPI and applied prompt engineering techniques
+- Strengthened Python problem-solving through hands-on assignments
+
+**🌐 Full Stack Developer Intern · UptoSkills** · *Feb 2026 – May 2026 · Remote*
+- Developed responsive frontend interfaces using HTML, CSS and JavaScript
+- Built backend APIs and server-side logic for data processing and integration
+
+**🧠 AI Intern · Infosys Springboard** · *Oct 2025 – Dec 2025 · Remote*
+- Developed an AI-enabled facial skin aging detection application
+- Built and evaluated a deep learning model for image-based skin condition classification (see [DermalScan](<repo-link>))
+
+**💻 Web Development Intern · Brainwave Matrix Solutions** · *Jun 2025 – Jul 2025 · Remote*
+- Built and completed web development tasks, including a responsive landing page ([Landing_page](https://github.com/harshitha3005/Landing_page))
+
+**🌍 Full Stack Web Developer Intern · EduSkills Foundation** · *Apr 2025 – Jun 2025 · Remote*
+- Completed a full stack web development virtual internship, working with front-end and back-end technologies
+
+**📊 AI & Data Analytics Intern · Edunet Foundation** · *Apr 2025 · Remote*
+- Worked on introductory AI and data analytics tasks using Python
 
 ### 📈 GitHub Stats
 
