@@ -13,10 +13,39 @@
 
 ---
 
-### 🔭 What I'm about
-- 🧠 Deep learning for audio and vision (CNN, LSTM, EfficientNet)
-- 🌐 Full-stack apps with the MERN stack, including real-time features
-- 🎯 Open to internships and entry-level roles in AI/ML and full-stack development
+## 👩‍💻 About Me
+
+I'm an AI undergraduate who enjoys turning ideas into working products, from training deep learning models to shipping full-stack apps. Over the past year I've completed **six internships** across AI, agentic AI and web development, and I'm now looking for opportunities where I can keep learning and build things that matter.
+
+I care about writing clean code, understanding *why* a model behaves the way it does, and finishing what I start.
+
+### 🎯 What I Do
+
+| Focus Area | What I Work On |
+|---|---|
+| 🧠 **Deep Learning** | CNN, LSTM and transfer learning (EfficientNetB0) for image and audio problems |
+| 🤖 **Agentic AI** | AI agents and RAG applications with LangChain, LangGraph and FastAPI |
+| 🌐 **Full-Stack Development** | MERN apps with REST APIs, JWT authentication and real-time features (Socket.IO) |
+| 📊 **Data & ML** | Data analysis and modelling with Pandas, NumPy and scikit-learn |
+| 🧩 **Problem Solving** | Data structures and algorithms in Java and Python, practised on LeetCode and CodeChef |
+
+### ⭐ Highlights
+- 🎓 B.Tech in Artificial Intelligence at Vignan's Institute of Information Technology, **CGPA 9.39/10** (Class of 2027)
+- 💼 **6 internships** in AI, agentic AI and full-stack development
+- 🔬 Built **DermalScan** (83% accuracy) and a **speech emotion recognition** system on RAVDESS
+- 💬 Built a **real-time chat app** with JWT authentication and image sharing
+- 📜 Certified in Artificial Intelligence (Accenture) and HTML/CSS/JavaScript (Cisco)
+
+### 💪 Strengths
+`Analytical thinking` · `Quick learner` · `Problem solving` · `Team collaboration` · `Clear communication` · `Consistency`
+
+### 🌱 Currently
+- Deepening my work in **agentic AI** (LangGraph, RAG)
+- Improving my DSA and problem-solving practice
+- Writing better documentation and adding live demos for my projects
+
+### 🤝 Let's Connect
+I'm open to **AI/ML and full-stack internships and entry-level roles**. Feel free to reach out through LinkedIn or email.
 
 ### 🛠️ Tech Stack
 
